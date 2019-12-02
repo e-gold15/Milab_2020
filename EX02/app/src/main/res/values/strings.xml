@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EX02</string>
+    <string name="stark">Stark</string>
+    <string name="lanister">Lanister</string>
+    <string name="button">Button</string>
+    <string name="_123">123</string>
+    <string name="todo">TODO</string>
+</resources>
