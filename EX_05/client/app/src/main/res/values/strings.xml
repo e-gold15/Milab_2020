@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">client</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="get_the_stock_price" />
+    <string name="choose_a_stock_and_find_out_its_latest_price" />
+    <string name="insert_stock_name">insert stock name</string>
+</resources>
